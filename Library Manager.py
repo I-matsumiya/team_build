@@ -14,5 +14,6 @@ library = [
     {"title": "チェンソーマン", "author": "藤本タツキ", "status": "未読"},
     {"title": "同志少女よ、敵を撃て", "author": "逢坂冬馬", "status": "読了"},
     {"title": "キングダム", "author": "原泰久", "status": "未読"},
+    {"title": "炎炎ノ消防隊", "author": "大久保篤", "status": "未読"},
     {"title": "", "author": "", "status": ""},
 ]
