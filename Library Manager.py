@@ -16,5 +16,6 @@ library = [
     {"title": "キングダム", "author": "原泰久", "status": "未読"},
     {"title": "炎炎ノ消防隊", "author": "大久保篤", "status": "未読"},
     {"title": "ウマ娘 シンデレラグレイ", "author": "久住太陽", "status": "読了"},
+    {"title": "さくらのまち", "author": "三秋縋", "status": "読了"},
     {"title": "", "author": "", "status": ""},
 ]
